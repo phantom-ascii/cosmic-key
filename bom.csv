@@ -1,0 +1,13 @@
+# Bill of Materials
+
+| Qty | Component                    | Description                | Source                           |
+| --: | ---------------------------- | -------------------------- | -------------------------------- |
+|   1 | Seeed Studio XIAO RP2040     | Main microcontroller       | Hackpad Kit                      |
+|   5 | MX-style mechanical switches | 5-key input                | Hackpad Kit                      |
+|   5 | 1N4148 diodes                | Key matrix                 | Hackpad Kit                      |
+|   1 | EC11 rotary encoder          | Rotary input + push switch | Hackpad Kit                      |
+|   1 | Custom PCB                   | Main circuit board         | Hackpad PCB Grant                |
+|   1 | 3D-printed case              | Lid + bottom case          | Hackpad / Printing Legion        |
+|   4 | M3 heat-set inserts          | Case mounting              | Hackpad Kit                      |
+|   4 | M3 × 16 mm screws            | Case mounting              | Hackpad Kit                      |
+|   1 | Soldering iron               | PCB assembly and soldering | Hackpad $18 soldering-iron grant |
